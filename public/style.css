@@ -1,0 +1,18 @@
+body{
+  background-color: silver;
+}
+
+h1{
+  color: red;
+  font-family: fantasy;
+  font-size: 100px;
+}
+
+p{
+  font-family: cursive;
+  color: yellow;
+}
+
+h1, p{
+  text-align: center;
+}
